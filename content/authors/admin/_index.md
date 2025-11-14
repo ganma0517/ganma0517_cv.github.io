@@ -119,7 +119,7 @@ skills:
       - name: Travel and Cultural Exploration
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: person-simple-walk
 
 languages:
   - name: English
@@ -138,7 +138,7 @@ awards:
     url: https://neurips.cc/
     date: '2023-09-20'
     awarder: College of Social Sciences, NCCU
-    icon: "custom/nccu"
+    icon: "custom/nccu_ss"
     summary: 
       Awarded for outstanding achievement in doctoral dissertation research and writing.
   - title: Professor Chi Huang Research Scholarship
