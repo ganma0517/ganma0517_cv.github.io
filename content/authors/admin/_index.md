@@ -103,7 +103,7 @@ skills:
       - name: STATA
         description: ''
         percent: 90
-        icon: 📈
+        icon: devicon/statamic
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -115,7 +115,7 @@ skills:
       - name: LEGO model building
         description: ''
         percent: 90
-        icon: puzzle
+        icon: fa-puzzle-piece
       - name: Travel and Cultural Exploration
         description: ''
         percent: 80
