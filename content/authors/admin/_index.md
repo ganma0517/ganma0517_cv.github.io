@@ -103,7 +103,7 @@ skills:
       - name: STATA
         description: ''
         percent: 90
-        icon: devicon/stata
+        icon: "custom/stata"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -145,7 +145,7 @@ awards:
     url: https://politics.nccu.edu.tw/
     date: '2022-04-15'
     awarder: Department of Political Science, NCCU
-    icon: "custom/nccu"
+    icon: "custom/nccu_pp"
     summary: |
       Awarded to outstanding doctoral candidates in the field of empirical research for excellence in academic writing.
   - title: NSTC Doctoral Dissertation Fellowship in the Humanities and Social Sciences
