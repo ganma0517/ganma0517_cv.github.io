@@ -111,7 +111,7 @@ skills:
       - name: Research Journaling and Archival Work
         description: ''
         percent: 90
-        icon: <i class="fa-light fa-file"></i>
+        icon: "custom/file"
       - name: LEGO model building
         description: ''
         percent: 90
