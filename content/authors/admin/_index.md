@@ -96,17 +96,14 @@ skills:
         description: ''
         percent: 85
         icon: devicon/python
-        icon_pack: fab
       - name: RStudio
         description: ''
         percent: 80
-        icon: r-project
-        icon_pack: fas
+        icon: devicon/rstudio
       - name: STATA
         description: ''
         percent: 90
         icon: chart-line
-        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -114,7 +111,7 @@ skills:
       - name: Research Journaling and Archival Work
         description: ''
         percent: 90
-        icon: flim
+        icon: <i class="fa-light fa-file"></i>
       - name: LEGO model building
         description: ''
         percent: 90
