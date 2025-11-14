@@ -157,4 +157,4 @@ awards:
       Awarded to doctoral candidates with strong research potential to support one year of dissertation writing and enhance academic research quality (NT$480,000).
 ---
 
-Wen Cheng Lin is a postdoctoral research fellow at the  CAHSS, National Taiwan University. His research focuses on political and social change in Taiwan, as well as comparative politics. He collaborates closely with the Institute of Political Science and the Institute of Sociology at Academia Sinica, examining how mainland China influences public opinion in Taiwan, including the effects of military aircraft incursions, local-level united front strategies, and diplomatic isolation.
+    Wen Cheng Lin is a postdoctoral research fellow at the  CAHSS, National Taiwan University. His research focuses on political and social change in Taiwan, as well as comparative politics. He collaborates closely with the Institute of Political Science and the Institute of Sociology at Academia Sinica, examining how mainland China influences public opinion in Taiwan, including the effects of military aircraft incursions, local-level united front strategies, and diplomatic isolation.
